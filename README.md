@@ -1,4 +1,4 @@
-# <p align="center">Modeling Competitive Dynamics with Heterogeneous Lanchester Equations: Insights from Kursk Battle</p>
+# <p align="center">Evaluating Tactical Readiness Across Forward Operating Bases Using Autonomous Resupply Protocols</p>
 
 <p align="center">
   <a href="https://arxiv.org/abs/1903.06666"><img src="https://img.shields.io/badge/Paper-ArXiv%20219-blue" alt="Paper"></a>
