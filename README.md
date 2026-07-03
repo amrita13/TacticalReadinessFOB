@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://aixiv.science/pdf/aixiv.260429.000007"><img src="https://img.shields.io/badge/Paper-aiXiv%2026-blue" alt="Paper"></a>
-  <a href="https://huggingface.co/datasets/SagarLekhak/pfm1-landmine-uav-vnir-hsi-IGARSS-2026"><img src="https://img.shields.io/badge/Dataset-UAV%20Hyperspectral-green" alt="Dataset"></a>
+  <a href="https://huggingface.co/datasets/SagarLekhak/pfm1-landmine-uav-vnir-hsi-IGARSS-2026"><img src="https://img.shields.io/badge/Dataset-FOB%20HTRI-green" alt="Dataset"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"></a>
 </p>
 
